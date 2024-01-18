@@ -13,7 +13,7 @@ export default function About() {
                     
                 </div>
                 <div>
-                    <img src="/qrcode.JPG" class="max-w-xs rounded-lg my-4" />
+                    
                 </div>
             </div>
         </div>
