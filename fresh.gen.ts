@@ -2,7 +2,7 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $0 from "./routes/171717.tsx";
+import * as $0 from "./routes/543823.tsx";
 import * as $1 from "./routes/_404.tsx";
 import * as $2 from "./routes/_app.tsx";
 import * as $3 from "./routes/about.tsx";
@@ -22,7 +22,7 @@ import * as $$1 from "./islands/vip.tsx";
 
 const manifest = {
   routes: {
-    "./routes/171717.tsx": $0,
+    "./routes/543823.tsx": $0,
     "./routes/_404.tsx": $1,
     "./routes/_app.tsx": $2,
     "./routes/about.tsx": $3,
