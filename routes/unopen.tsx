@@ -10,7 +10,7 @@ export default function Page() {
         <h1 class="text-4xl font-bold my-16">情侣情趣飞行棋</h1>
 
         <img src="/logo.png" class="w-16 h-16" />
-        <h2 class="my-4">最新自由定制版即将发布</h2>
+        <h2 class="my-4">情侣飞行棋</h2>
         <div class="p-4 border-4 rounded bg-pink-500 border-double">
           <div>https://17fei.fun</div>
           <div>支持不同设备访问，不获取隐私信息</div>
